@@ -7,6 +7,6 @@ resource "google_compute_router" "router" {
     asn = 65001
     # This is the IP address of the router in the VPC network.
     # It must be in the same range as
-  
-}
+
+  }
 }
